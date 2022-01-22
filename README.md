@@ -2,4 +2,4 @@
 - 👀 I’m interested in Server Administration and Programming
 - 🌱 I’m currently learning Java / Python
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me xSora#8738 on Discord
+- 📫 How to reach me Discord https://discordapp.com/users/251088004272226305
