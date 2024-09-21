@@ -1,5 +1,3 @@
 - 👋 Hi, I’m @xSora
-- 👀 I’m interested in Server Administration and Programming
-- 🌱 I’m currently learning Java / Python
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning Python & PowerShell Scripting
 - 📫 How to reach me Discord https://discordapp.com/users/251088004272226305
